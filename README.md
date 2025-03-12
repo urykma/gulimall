@@ -1,6 +1,6 @@
 # gulimall
 谷粒商城
-gulimall-common里有数据库文件等项目需要的其他文件
+gulimall-common里有数据库文件等项目需要的其他文件666
 <hr>
 项目演示截图<br>
 <img loading="lazy" src="https://pic4.zhimg.com/80/v2-9cc42a0b414dbd9d3c07a42ce202d353_1440w.jpg" width="600" height="420"><br>
